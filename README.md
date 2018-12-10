@@ -26,9 +26,9 @@ The project will be available at **127.0.0.1:8000**.
 
 
 In order to create the main subject make a superuser (python manage.py createsuperuser).
-loging as superuser.
-then access admin page (127.0.0.1:8000/admin).
+Login as superuser.
+Then access admin page (127.0.0.1:8000/admin).
 
-and create the new boards subject.
-usual users can create new topics and reply on topics.
+And create the new boards subject.
+Usual users can create new topics and reply on topics.
 
